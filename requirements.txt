@@ -1,0 +1,6 @@
+# requirements.txt
+streamlit
+langchain-community
+faiss-cpu
+openai
+pypdf
