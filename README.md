@@ -1,5 +1,6 @@
 # langchain_streamlit# RAG文档问答系统
 <img width="3189" height="1644" alt="image" src="https://github.com/user-attachments/assets/9ae4a21b-4308-4e95-891a-820e73664427" />
+<img width="3538" height="1635" alt="image" src="https://github.com/user-attachments/assets/97621f7c-7337-4d8a-a4f9-3e7d69ff0782" />
 
 一个基于Streamlit、LangChain和自定义OpenAI API构建的检索增强生成（RAG）文档问答系统。该系统允许用户上传PDF或文本文件，然后基于文档内容进行智能问答。
 
